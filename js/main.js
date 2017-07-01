@@ -1,5 +1,5 @@
 'use strict';
-$(function(){
-	$('.carousel').carousel({
-		interval: 500})
-});
+/*'use strict';*/
+$('.carousel').carousel
+  ({interval: 2000});
+	
